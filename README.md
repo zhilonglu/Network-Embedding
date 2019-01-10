@@ -66,10 +66,10 @@ All related open resources about network embedding are listed including publishe
   * Learning structured embeddings of knowledge bases,AAAI 2011
   * Knowledge graph embedding by translating on hyperplanes,AAAI 2014
   * A semantic matching energy function for learning with multi-relational data application to word-sense disambiguation,Machine Learning 2014
-  * Multi-modal bayesian embeddings for learning social knowledge graphs,arXiv 2015
   * Structured embedding via pairwise relations and long-range interactions in knowledge base,AAAI 2015
   * Learning entity and relation embeddings for knowledge graph completion,AAAI 2015
   * Rdf2vec: Rdf graph embeddings for data mining,ISWC 2016
+  * Multi-modal bayesian embeddings for learning social knowledge graphs,IJCAI 2016
   * Label noise reduction in entity typing by heterogeneous partial-label embedding,KDD 2016
   * GAKE: Graph aware knowledge embedding,COLING 2016
   * Revisiting semisupervised learning with graph embeddings,ICML 2016
