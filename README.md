@@ -18,6 +18,8 @@ All related open resources about network embedding are listed including publishe
 ## NRL Alorithms
 * Matrix Factorization
   * Social Dim
+  * Laplacian Eigenmaps
+  * Graph Factorization
   * GraRep 
   * HOPE
   * GraphWave
@@ -55,15 +57,24 @@ All related open resources about network embedding are listed including publishe
 
 ## Evaluation Method
 * Network Reconstruction
-* Vertex Classification
+* Node Classification
 * Link Prediction
-* Visualization
+* Node Clustering
+* Network Visualization
 
 ## Optimization Method
 * Eigen Decomposition
 * Stochastic Gradient Descent
 * Alternative Optimization
 * Gradient Descent
+
+## Application
+* Knowledge graph related
+* Multimedia network related
+* Information propagation related
+* Social networks alignment
+* Image related
+
 
 ## Source Code<br>
 * [DeepWalk](https://github.com/phanein/deepwalk "DeepWalk")
@@ -87,10 +98,15 @@ All related open resources about network embedding are listed including publishe
 * [Cascade prediction](https://github.com/chengli-um/DeepCas "Cascade prediction")
 * [Anomaly detection](https://github.com/hurenjun/EmbeddingAnomalyDetection "Anomaly detection")
 * [Collaboration prediction](https://github.com/chentingpc/GuidedHeteEmbedding "Collaboration prediction")
+* [open-source Python library GEM](https://github.com/palash1992/GEM "GEM")
 
 ## Benchmark Dataset<br>
+* Synthetic
+  * SYN-SBM(Stochastic blockmodels for directed graphs Journal of the American Statistical Association 82 (397) (1987) 8–19.) 
+  
 * Social Network
   * [BlogCatalog](http://socialcomputing.asu.edu/datasets/BlogCatalog3 "BlogCatalog")
+  * KARATE(An information flow model for conflict and fission in small groups, Journal of anthropological research 33 (4) (1977).)
   * [Flickr](http://socialcomputing.asu.edu/datasets/Flickr "Flickr")
   * [YouTube](http://socialcomputing.asu.edu/datasets/YouTube2 "YouTube")
   * [Twitter](http://socialcomputing.asu.edu/datasets/Twitter "Twitter")
@@ -112,6 +128,8 @@ All related open resources about network embedding are listed including publishe
   * [Citeseer-M10](http://citeseerx.ist.psu.edu/ "Citeseer-M10")
 * Collaboration network
   * Arxiv GR-QC(Graph evolution:densification and shrinking diameters)
+  * HEP-TH(Overview of the 2003 kdd cup, ACM SIGKDD Explorations 5 (2).)
+  * [ASTRO-PH](http://snap.stanford.edu/data "ASTRO-PH")
 * Webpage Network
   * [Wikipedia](https://linqs.soe.ucsc.edu/data "Wikipedia")
   * [WebKB](https://linqs.soe.ucsc.edu/data "WebKB")
@@ -135,5 +153,8 @@ All related open resources about network embedding are listed including publishe
 * More Advanced Information and Tasks
 * Dynamic Network Embedding
 * More embedding spaces
+* Decoding higher-order motifs
+* Reasoning about large sets of candidate subgraphs
+* Improving interpretability
 
 
