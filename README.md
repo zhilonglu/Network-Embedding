@@ -215,11 +215,11 @@ All related open resources about network embedding are listed including publishe
 * Improving interpretability
 
 ## Related List
-[awesome-network-embedding](https://github.com/zhilonglu/awesome-network-embedding)
-[awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
-[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
-[Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)
-[Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
-[Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources)
-[awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
-[2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec)
+* [awesome-network-embedding](https://github.com/zhilonglu/awesome-network-embedding)
+* [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+* [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
+* [Must-read papers on network representation learning (NRL) / network embedding (NE)](https://github.com/thunlp/NRLPapers)
+* [Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)](https://github.com/thunlp/KRLPapers)
+* [Network Embedding Resources](https://github.com/nate-russell/Network-Embedding-Resources)
+* [awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
+* [2vec-type embedding models](https://github.com/MaxwellRebo/awesome-2vec)
