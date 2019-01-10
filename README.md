@@ -11,20 +11,41 @@ All related open resources about network embedding are listed including publishe
 
 ## NRL Alorithms
 * Matrix Factorization
- * Social Dim
- * GraRep 
- * HOPE
- * GraphWave
- * M-NMF
- * TADW 
- * HSCA 
- * MMDW 
- * DMF
- * LANE
+  * Social Dim
+  * GraRep 
+  * HOPE
+  * GraphWave
+  * M-NMF
+  * TADW 
+  * HSCA 
+  * MMDW 
+  * DMF
+  * LANE
 * Random Walk
+  * DeepWalk
+  * node2vec
+  * APP
+  * DDRW
+  * GENE
+  * TriDNR
+  * UPP-SNE
+  * struct2vec
+  * SNS
+  * PPNE
+  * SemiNE
 * Edge Modeling
+  * LINE
+  * TLINE
+  * LDE
+  * pRBM
+  * GraphGAN
 * Deep Learning
+  * DNGR
+  * SDNE
 * Hybrid
+  * DP
+  * HARP
+  * Planetoid
 
 ## Evaluation Method
 * Network Reconstruction
