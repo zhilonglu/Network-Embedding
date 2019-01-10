@@ -29,5 +29,5 @@ Open Resources For network embedding including published benchmark datasets, eva
   * [BlogCatalog](http://www.public.asu.edu/~ltang9/)
   * [Flickr](http://socialnetworks.mpi-sws.org/data-imc2007.html)
   * [YouTube](http://socialnetworks.mpi-sws.org/data-imc2007.html)
-*Language Network
+* Language Network
   * Wikipedia(LINE:Large-scale information network embedding)
