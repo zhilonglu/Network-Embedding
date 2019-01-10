@@ -129,6 +129,7 @@ All related open resources about network embedding are listed including publishe
 * Node Clustering
 * Network Visualization
 * traffic related
+  * Sparse-Representation-Based Graph Embedding for Traffic Sign Recognition,TITS 2012
   * Representation learning for geospatial areas using large-scale mobility data from smart card,UbiComp 2016
   * Geospatial area embedding based on the movement purpose hypothesis using large-scale mobility data from smart card,IJCNS 2016
 
