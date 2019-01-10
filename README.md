@@ -55,13 +55,6 @@ All related open resources about network embedding are listed including publishe
   * HARP
   * Planetoid
 
-## Evaluation Method
-* Network Reconstruction
-* Node Classification
-* Link Prediction
-* Node Clustering
-* Network Visualization
-
 ## Optimization Method
 * Eigen Decomposition
 * Stochastic Gradient Descent
@@ -70,10 +63,74 @@ All related open resources about network embedding are listed including publishe
 
 ## Application
 * Knowledge graph related
+  * Learning structured embeddings of knowledge bases,AAAI 2011
+  * Knowledge graph embedding by translating on hyperplanes,AAAI 2014
+  * A semantic matching energy function for learning with multi-relational data application to word-sense disambiguation,Machine Learning 2014
+  * Multi-modal bayesian embeddings for learning social knowledge graphs,arXiv 2015
+  * Structured embedding via pairwise relations and long-range interactions in knowledge base,AAAI 2015
+  * Learning entity and relation embeddings for knowledge graph completion,AAAI 2015
+  * Rdf2vec: Rdf graph embeddings for data mining,ISWC 2016
+  * Label noise reduction in entity typing by heterogeneous partial-label embedding,KDD 2016
+  * GAKE: Graph aware knowledge embedding,COLING 2016
+  * Revisiting semisupervised learning with graph embeddings,ICML 2016
+  * Explicit semantic ranking for academic search via knowledge graph embedding,WWW 2017
+  * Proje: Embedding projection for knowledge graph completion,AAAI 2017
 * Multimedia network related
 * Information propagation related
 * Social networks alignment
+* Recommender Systems
 * Image related
+* Natural Language Processing
+* Network Reconstruction
+* Node Classification
+  * A comparison of event models for naive bayes text classification,AAAI-98 workshop on learning for text categorization 1998
+  * Iterative classification in relational data,Workshop on Learning Statistical Models from Relational Data 2000
+  * Link-based classification,ICML 2003
+  * Applying link-based classification to label blogs,WebKDD 2007
+  * The rendezvous algorithm: Multiclass semi-supervised learning with markov random walks,ICML 2007
+  * Combining content and link for classification using matrix factorization,SIGIR 2007
+  * Video suggestion and discovery for youtube:taking random walks through the view graph,WWW 2008
+  * Collective classification in network data,AI Magazine 2008
+  * Hypergraph spectral learning for multilabel classification,KDD 2008
+  * Node classification in social networks,Social network data analytics,Springer 2011
+  * Label-dependent node classification in the network,Neurocomputing 2012
+  * Applied logistic regression,John Wiley & Sons 2013
+  * Probabilistic latent document network embedding,ICDM 2014
+  * Spherical and hyperbolic embeddings of data,TPAMI 2014
+  * DeepWalk: Online learning of social representations, KDD 2014
+  * Heterogeneous network embedding via deep architectures,KDD 2015
+  * LINE:Large-scale information network embedding,WWW 2015
+  * Heterogeneous network embedding via deep architectures,KDD 2015
+  * Network representation learning with rich text information,IJCAI 2015
+  * Grarep: Learning graph representations with global structural information,CIKM 2015
+  * Pte: Predictive text embedding through large-scale heterogeneous text networks,KDD 2015
+  * Homophily, structure,and content augmented network representation learning,ICDM 2016
+  * node2vec: Scalable feature learning for networks,KDD 2016
+  * Collective classification via discriminative matrix factorization on sparsely labeled networks,CIKM 2016
+  * Learning from collective intelligence: Feature learning using social images and tags,TOMCCAP 2016
+  * Large-scale embedding learning in heterogeneous event data,ICDM 2016
+  * Discriminative deep random walk for network classification,ACL 2016
+  * Max-Margin DeepWalk:discriminative learning of network representation,IJCAI 2016
+  * TLINE: scalable transductive network embedding,Information Retrieval Technology 2016
+  * Revisiting semisupervised learning with graph embeddings,ICML 2016
+  * Structural deep network embedding,KDD 2016
+  * Tri-party deep network representation,IJCAI 2016
+  * Partially supervised graph embedding for positive unlabelled feature selection,IJCAI 2016
+  * Predicting user’s multi-interests with network embedding in health-related topics,IJCNN 2016
+  * Inductive representation learning on large graphs,arXiv 2017
+  * Semi-supervised classification with graph convolutional networks,ICLR 2017
+  * Community preserving network embedding,AAAI 2017
+  * Label informed attributed network embedding,WSDM 2017
+  * Incorporating knowledge graph embeddings into topic modeling,AAAI 2017
+  * Unsupervised and scalable algorithm for learning node representations,ICLR 2017
+  * SSP: semantic space projection for knowledge graph embedding with text descriptions,AAAI 2017
+  * Geometric deep learning on graphs and manifolds using mixture model cnns,CVPR 2017
+* Link Prediction
+* Node Clustering
+* Network Visualization
+* traffic related
+  * Representation learning for geospatial areas using large-scale mobility data from smart card,UbiComp 2016
+  * Geospatial area embedding based on the movement purpose hypothesis using large-scale mobility data from smart card,IJCNS 2016
 
 
 ## Source Code<br>
