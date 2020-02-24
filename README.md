@@ -125,6 +125,8 @@ All related open resources about network embedding are listed including publishe
   * Unsupervised and scalable algorithm for learning node representations,ICLR 2017
   * SSP: semantic space projection for knowledge graph embedding with text descriptions,AAAI 2017
   * Geometric deep learning on graphs and manifolds using mixture model cnns,CVPR 2017
+  * RSDNE: Exploring Relaxed Similarity and Dissimilarity from Completely-imbalanced Labels for Network Embedding, AAAI 2018
+  * Network Embedding with Completely-imbalanced Labels, TKDE 2020.
 * Link Prediction
 * Node Clustering
 * Network Visualization
@@ -141,6 +143,8 @@ All related open resources about network embedding are listed including publishe
 * [DNGR](https://github.com/ShelsonCao/DNGR "DNGR")
 * [SDNE](https://github.com/suanrong/SDNE "SDNE")
 * [node2vec](https://github.com/aditya-grover/node2vec "nodd2vec")
+* [RSDNE](https://github.com/zhengwang100/RSDNE-python)
+* [RECT](https://github.com/zhengwang100/RECT)
 * [M-NMF](http://git.thumedia.org/embedding/M-NMF "M-NMF")
 * [GED](https://users.ece.cmu.edu/˜sihengc/publications.html "GED")
 * [Ou](http://nrl.thumedia.org/non-transitive-hashing-with-latent-similarity-components "Ou")
